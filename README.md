@@ -1,6 +1,8 @@
-# Hashing Data Structure
+# Python Data Structures and Algorithms
 
-Hashing is an important Data Structure which is designed to use a special function called the Hash function which is used to map a given value with a particular key for faster access of elements. The efficiency of mapping depends of the efficiency of the hash function used.
+Implementation of various data structures and algorithms in Python :snake:
 
-## Collision Resolution
-Quadratic Probing is used here to resolve collision.
+## Contributors 
+ - [Saim Akhtar](https://github.com/Saim-Akhtar)
+
+ - [Areeba Seher](https://github.com/Areeba-Seher04)
